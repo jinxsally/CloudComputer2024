@@ -4,7 +4,7 @@
 
 ## 关于本项目
 
-![image-20250122101631054](C:\Users\chenxiuxiu\AppData\Roaming\Typora\typora-user-images\image-20250122101631054.png)
+![alt text](image.png)
 
 ### 构建工具
 
